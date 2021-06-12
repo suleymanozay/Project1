@@ -1,0 +1,6 @@
+file:src/test/resources/Features/Qualification.feature:6
+file:src/test/resources/Features/personal.feature:17:26
+file:src/test/resources/Features/Contact.feature:17
+file:src/test/resources/Features/Dependents.feature:16
+file:src/test/resources/Features/SalaryCompoAdd.feature:17
+file:src/test/resources/Features/PersonalDetails.feature:16

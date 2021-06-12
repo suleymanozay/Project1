@@ -1,0 +1,249 @@
+-------------------------------------------------------------------------------
+Test set: com.syntax.runners.Runner
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 14, Skipped: 0, Time elapsed: 9.776 s <<< FAILURE! - in com.syntax.runners.Runner
+Contact Details.Modify Contact Details  Time elapsed: 2.125 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 79
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ODFPRUL', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0051A113+1548563]
+	Ordinal0 [0x0049DDA1+1039777]
+	Ordinal0 [0x0041E485+517253]
+	Ordinal0 [0x003AFD34+64820]
+	Ordinal0 [0x003AC61E+50718]
+	Ordinal0 [0x003CB797+178071]
+	Ordinal0 [0x003CB59D+177565]
+	Ordinal0 [0x003C95FB+169467]
+	Ordinal0 [0x003B160A+71178]
+	Ordinal0 [0x003B2690+75408]
+	Ordinal0 [0x003B2629+75305]
+	Ordinal0 [0x004B71B7+1143223]
+	GetHandleVerifier [0x005B2B46+507814]
+	GetHandleVerifier [0x005B2864+507076]
+	GetHandleVerifier [0x005B9F47+537511]
+	GetHandleVerifier [0x005B3402+510050]
+	Ordinal0 [0x004AF29C+1110684]
+	Ordinal0 [0x004B938B+1151883]
+	Ordinal0 [0x004B94F3+1152243]
+	Ordinal0 [0x004B83F5+1147893]
+	BaseThreadInitThunk [0x76896359+25]
+	RtlGetAppContainerNamedObjectPath [0x77C17C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77C17BF4+180]
+
+
+Contact Details.Modify Contact Details  Time elapsed: 2.125 s  <<< ERROR!
+java.lang.NullPointerException
+
+Add Employee Dependents.Add Employee Dependents  Time elapsed: 1.101 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 79
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ODFPRUL', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0051A113+1548563]
+	Ordinal0 [0x0049DDA1+1039777]
+	Ordinal0 [0x0041E485+517253]
+	Ordinal0 [0x003AFD34+64820]
+	Ordinal0 [0x003AC61E+50718]
+	Ordinal0 [0x003CB797+178071]
+	Ordinal0 [0x003CB59D+177565]
+	Ordinal0 [0x003C95FB+169467]
+	Ordinal0 [0x003B160A+71178]
+	Ordinal0 [0x003B2690+75408]
+	Ordinal0 [0x003B2629+75305]
+	Ordinal0 [0x004B71B7+1143223]
+	GetHandleVerifier [0x005B2B46+507814]
+	GetHandleVerifier [0x005B2864+507076]
+	GetHandleVerifier [0x005B9F47+537511]
+	GetHandleVerifier [0x005B3402+510050]
+	Ordinal0 [0x004AF29C+1110684]
+	Ordinal0 [0x004B938B+1151883]
+	Ordinal0 [0x004B94F3+1152243]
+	Ordinal0 [0x004B83F5+1147893]
+	BaseThreadInitThunk [0x76896359+25]
+	RtlGetAppContainerNamedObjectPath [0x77C17C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77C17BF4+180]
+
+
+Add Employee Dependents.Add Employee Dependents  Time elapsed: 1.101 s  <<< ERROR!
+java.lang.NullPointerException
+
+Personal Details.Modify personal Details  Time elapsed: 1.142 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 79
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ODFPRUL', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0051A113+1548563]
+	Ordinal0 [0x0049DDA1+1039777]
+	Ordinal0 [0x0041E485+517253]
+	Ordinal0 [0x003AFD34+64820]
+	Ordinal0 [0x003AC61E+50718]
+	Ordinal0 [0x003CB797+178071]
+	Ordinal0 [0x003CB59D+177565]
+	Ordinal0 [0x003C95FB+169467]
+	Ordinal0 [0x003B160A+71178]
+	Ordinal0 [0x003B2690+75408]
+	Ordinal0 [0x003B2629+75305]
+	Ordinal0 [0x004B71B7+1143223]
+	GetHandleVerifier [0x005B2B46+507814]
+	GetHandleVerifier [0x005B2864+507076]
+	GetHandleVerifier [0x005B9F47+537511]
+	GetHandleVerifier [0x005B3402+510050]
+	Ordinal0 [0x004AF29C+1110684]
+	Ordinal0 [0x004B938B+1151883]
+	Ordinal0 [0x004B94F3+1152243]
+	Ordinal0 [0x004B83F5+1147893]
+	BaseThreadInitThunk [0x76896359+25]
+	RtlGetAppContainerNamedObjectPath [0x77C17C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77C17BF4+180]
+
+
+Personal Details.Modify personal Details  Time elapsed: 1.142 s  <<< ERROR!
+java.lang.NullPointerException
+
+Add employee's qualifications.Adding qualifications  Time elapsed: 1.131 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 79
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ODFPRUL', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0051A113+1548563]
+	Ordinal0 [0x0049DDA1+1039777]
+	Ordinal0 [0x0041E485+517253]
+	Ordinal0 [0x003AFD34+64820]
+	Ordinal0 [0x003AC61E+50718]
+	Ordinal0 [0x003CB797+178071]
+	Ordinal0 [0x003CB59D+177565]
+	Ordinal0 [0x003C95FB+169467]
+	Ordinal0 [0x003B160A+71178]
+	Ordinal0 [0x003B2690+75408]
+	Ordinal0 [0x003B2629+75305]
+	Ordinal0 [0x004B71B7+1143223]
+	GetHandleVerifier [0x005B2B46+507814]
+	GetHandleVerifier [0x005B2864+507076]
+	GetHandleVerifier [0x005B9F47+537511]
+	GetHandleVerifier [0x005B3402+510050]
+	Ordinal0 [0x004AF29C+1110684]
+	Ordinal0 [0x004B938B+1151883]
+	Ordinal0 [0x004B94F3+1152243]
+	Ordinal0 [0x004B83F5+1147893]
+	BaseThreadInitThunk [0x76896359+25]
+	RtlGetAppContainerNamedObjectPath [0x77C17C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77C17BF4+180]
+
+
+Add employee's qualifications.Adding qualifications  Time elapsed: 1.131 s  <<< ERROR!
+java.lang.NullPointerException
+
+Enter Salary Components.Add Employee Salary Details  Time elapsed: 1.127 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 79
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ODFPRUL', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0051A113+1548563]
+	Ordinal0 [0x0049DDA1+1039777]
+	Ordinal0 [0x0041E485+517253]
+	Ordinal0 [0x003AFD34+64820]
+	Ordinal0 [0x003AC61E+50718]
+	Ordinal0 [0x003CB797+178071]
+	Ordinal0 [0x003CB59D+177565]
+	Ordinal0 [0x003C95FB+169467]
+	Ordinal0 [0x003B160A+71178]
+	Ordinal0 [0x003B2690+75408]
+	Ordinal0 [0x003B2629+75305]
+	Ordinal0 [0x004B71B7+1143223]
+	GetHandleVerifier [0x005B2B46+507814]
+	GetHandleVerifier [0x005B2864+507076]
+	GetHandleVerifier [0x005B9F47+537511]
+	GetHandleVerifier [0x005B3402+510050]
+	Ordinal0 [0x004AF29C+1110684]
+	Ordinal0 [0x004B938B+1151883]
+	Ordinal0 [0x004B94F3+1152243]
+	Ordinal0 [0x004B83F5+1147893]
+	BaseThreadInitThunk [0x76896359+25]
+	RtlGetAppContainerNamedObjectPath [0x77C17C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77C17BF4+180]
+
+
+Enter Salary Components.Add Employee Salary Details  Time elapsed: 1.127 s  <<< ERROR!
+java.lang.NullPointerException
+
+Edit Personal Details.Add Employee Job Details  Time elapsed: 1.13 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 79
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ODFPRUL', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0051A113+1548563]
+	Ordinal0 [0x0049DDA1+1039777]
+	Ordinal0 [0x0041E485+517253]
+	Ordinal0 [0x003AFD34+64820]
+	Ordinal0 [0x003AC61E+50718]
+	Ordinal0 [0x003CB797+178071]
+	Ordinal0 [0x003CB59D+177565]
+	Ordinal0 [0x003C95FB+169467]
+	Ordinal0 [0x003B160A+71178]
+	Ordinal0 [0x003B2690+75408]
+	Ordinal0 [0x003B2629+75305]
+	Ordinal0 [0x004B71B7+1143223]
+	GetHandleVerifier [0x005B2B46+507814]
+	GetHandleVerifier [0x005B2864+507076]
+	GetHandleVerifier [0x005B9F47+537511]
+	GetHandleVerifier [0x005B3402+510050]
+	Ordinal0 [0x004AF29C+1110684]
+	Ordinal0 [0x004B938B+1151883]
+	Ordinal0 [0x004B94F3+1152243]
+	Ordinal0 [0x004B83F5+1147893]
+	BaseThreadInitThunk [0x76896359+25]
+	RtlGetAppContainerNamedObjectPath [0x77C17C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77C17BF4+180]
+
+
+Edit Personal Details.Add Employee Job Details  Time elapsed: 1.13 s  <<< ERROR!
+java.lang.NullPointerException
+
+Edit Personal Details.Add Employee Emergency Contact  Time elapsed: 1.114 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 79
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ODFPRUL', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0051A113+1548563]
+	Ordinal0 [0x0049DDA1+1039777]
+	Ordinal0 [0x0041E485+517253]
+	Ordinal0 [0x003AFD34+64820]
+	Ordinal0 [0x003AC61E+50718]
+	Ordinal0 [0x003CB797+178071]
+	Ordinal0 [0x003CB59D+177565]
+	Ordinal0 [0x003C95FB+169467]
+	Ordinal0 [0x003B160A+71178]
+	Ordinal0 [0x003B2690+75408]
+	Ordinal0 [0x003B2629+75305]
+	Ordinal0 [0x004B71B7+1143223]
+	GetHandleVerifier [0x005B2B46+507814]
+	GetHandleVerifier [0x005B2864+507076]
+	GetHandleVerifier [0x005B9F47+537511]
+	GetHandleVerifier [0x005B3402+510050]
+	Ordinal0 [0x004AF29C+1110684]
+	Ordinal0 [0x004B938B+1151883]
+	Ordinal0 [0x004B94F3+1152243]
+	Ordinal0 [0x004B83F5+1147893]
+	BaseThreadInitThunk [0x76896359+25]
+	RtlGetAppContainerNamedObjectPath [0x77C17C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77C17BF4+180]
+
+
+Edit Personal Details.Add Employee Emergency Contact  Time elapsed: 1.114 s  <<< ERROR!
+java.lang.NullPointerException
+
